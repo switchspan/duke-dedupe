@@ -1,7 +1,6 @@
 require "duke-dedupe/version"
 
-module Duke
-  module Dedupe
+module DukeDedupe
     # Your code goes here...
-  end
+  
 end

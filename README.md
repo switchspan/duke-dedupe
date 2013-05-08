@@ -1,6 +1,7 @@
 # Duke::Dedupe
 
 The duke-dedupe gem is a data deduplication library based on the Duke fast deduplication engine by Lars Marius Garshol. 
+[Under Construction!]
 
 ## Installation
 
